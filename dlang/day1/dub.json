@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"fabianolvs"
+	],
+	"copyright": "Copyright © 2021, fabianolvs",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "day1"
+}
