@@ -1,7 +1,5 @@
 import std.conv;
 
-//1989014
-
 enum MoveType : string {
 	UP = "up",
 	DOWN = "down",
